@@ -7,7 +7,7 @@
 
 <div align="center" >
    <a href="https://github.com/anushkastar">
-   <img width=100% src="https://raw.githubusercontent.com/Anushka-Tripathi/Anushka-Tripathi/ouput/action2.gif" href="https://github.com/anushkastar" /></a>
+   <img width=100% src="https://Anushka-Tripathi/Anushka-Tripathi/ouput/action2.gif" href="https://github.com/anushkastar" /></a>
 </div>
 <div align=center>
    <a href="https://github.com/anushkastar">
