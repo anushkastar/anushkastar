@@ -1,5 +1,5 @@
 <div align="center" >
-   <a href="https://github.com/Sabyasachi-Seal">
+   <a>
    <img width=100% src="https://media.geeksforgeeks.org/wp-content/uploads/20240607103550/How-to-play-the-Dinosaur-Game-Hidden-inside-your-Google-Chrome-no-internet-gif.gif"  /></a>
 </div>
 
